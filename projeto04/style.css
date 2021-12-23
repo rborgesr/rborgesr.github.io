@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body{
+	height: 100%;
+}
+
+
+.clear{
+	clear: both;
+}
+
+#topo {
+    background-image: url(imagens/banner.jpg);
+    height: 680px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#topo p{
+    padding-top: 120px;
+    text-align: center;
+    font-size: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+#itens-topo {
+    padding-top: 90px;
+    padding-left: 500px;
+}
+
+#itens-topo a{
+    padding-left: 50px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#home{
+    border-radius: 19px;
+    border-style:double;
+    padding: 10px 50px 10px 10px ;
+}
+
+#inicio img{
+    padding-left: 10px;
+}
+
+
