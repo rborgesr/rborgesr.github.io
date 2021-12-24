@@ -9,14 +9,14 @@ html, body{
 }
 
 #linha-horizontal{
-    width: 330px;
+    width: 350px;
     border: 0.5px solid ;
     color:#a8a7a7;
     margin-bottom: 30px;
 }
 
 #linha-horizontal2{
-    width: 460px;
+    width: 410px;
     border: 0.5px solid ;
     color:#413d3d;
     margin-bottom: 30px;
@@ -67,7 +67,7 @@ html, body{
 
 #inicio{
     display: inline-block;
-    padding-left: 35px;
+    padding-left: 85px;
 }
 
 #inicio h1{
@@ -85,14 +85,11 @@ html, body{
 
 #conteudo-lateral{
     float: right;
-    padding-right: 150px;
+    padding-right: 100px;
     padding-bottom: 90px;
     display: inline-block;
 }
 
-#conteudo-lateral h1{
-
-}
 
 #conteudo-lateral h3{
     font-size: 13px;
@@ -151,16 +148,16 @@ html, body{
 
 #texto2{
     width: 400px;
-    padding-left: 35px;
+    padding-left: 85px;
     padding-top: 25px;
 }
 
 #topicos img{
-    padding-left: 35px;
+    padding-left: 85px;
 }
 
 #topicos h1{
-    padding-left: 35px;
+    padding-left: 85px;
     padding-bottom: 40px;
 }
 
@@ -242,20 +239,25 @@ footer p{
 #coluna1{
     display: inline-block;
     width: 33%;
-    padding-left: 35px;
+    padding-left: 85px;
     padding-top: 90px;
 }
 
 #coluna2{
     display: inline-block;
     width: 33%;
-    padding-left: 35px;
+    padding-left: 85px;
 }
 
 #coluna3{
     display: inline-block;
     width: 33%;
-    padding-left: 35px;
+    padding-left: 85px;
+}
+
+footer a{
+    text-decoration: none;
+    color: #888787;
 }
 
 
