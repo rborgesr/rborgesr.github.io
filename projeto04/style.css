@@ -8,6 +8,11 @@ html, body{
 	height: 100%;
 }
 
+#linha-horizontal{
+    width: 350px;
+    border: 0.5px solid #cac9c9;
+    margin-bottom: 30px;
+}
 
 .clear{
 	clear: both;
@@ -20,8 +25,8 @@ html, body{
     background-size: 100%;
 }
 
-#topo p{
-    padding-top: 120px;
+#topo h1{
+    padding-top: 130px;
     text-align: center;
     font-size: 60px;
     font-family:Arial, Helvetica, sans-serif;
@@ -30,7 +35,7 @@ html, body{
 }
 
 #itens-topo {
-    padding-top: 90px;
+    padding-top: 80px;
     padding-left: 500px;
 }
 
@@ -48,8 +53,74 @@ html, body{
     padding: 10px 50px 10px 10px ;
 }
 
+
 #inicio img{
-    padding-left: 10px;
+    padding-left: 35px;
+    padding-top: 40px;
 }
+
+#texto{
+    padding-top: 20px;
+    padding-left: 35px;
+    width: 950px;
+}
+
+
+#inicio h4, h1{
+    padding-left: 35px;
+}
+
+#inicio h1{
+    font-size: 30px;
+}
+
+#inicio-direita{
+    float: right;
+}
+
+#inicio-direita h1{
+    padding-right: 200px;
+}
+
+#inicio-direita h4{
+    padding-bottom: 25px;
+    color: rgb(165, 164, 164);
+    font-size: 12px;
+}
+
+
+#inicio-direita img{
+    float: left;
+    padding-left: 0px;
+}
+
+#inicio-direita p{
+    padding-top: 10px;
+    padding-left: 90px;
+}
+
+#conteudo-lateral{
+    padding-left: 35px;
+}
+
+#topicos{
+    padding-top: 50px;
+    background-color: #ccc;
+    width: 1583px;
+}
+
+
+#divs{
+    display:inline-block
+}
+
+#divs2{
+    display: inline-block;
+}
+
+#divs3{
+    display:inline-block;
+}
+
 
 
