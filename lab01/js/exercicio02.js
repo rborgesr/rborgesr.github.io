@@ -1,0 +1,27 @@
+a1 = Math.pow(4, 1);
+a2 = Math.pow(4, 2);
+a3 = Math.pow(4, 3);
+a4 = Math.pow(4, 4);
+a5 = Math.pow(4, 5);
+a6 = Math.pow(4, 6);
+a7 = Math.pow(4, 7);
+a8 = Math.pow(4, 8);
+a9 = Math.pow(4, 9);
+a10 = Math.pow(4, 10);
+a11 = Math.pow(4, 11);
+a12 = Math.pow(4, 12);
+a13 = Math.pow(4, 13);
+a14 = Math.pow(4, 14);
+a15 = Math.pow(4, 15);
+
+console.log(a1);
+console.log(a2);
+console.log(a3);
+console.log(a4);
+console.log(a5);
+console.log(a6);
+console.log(a7);
+console.log(a8);
+console.log(a9);
+console.log(a10);
+console.log(a11);
